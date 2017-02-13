@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ashley Boxshall</title>
+    <link>https://aboxshall.com/index.xml</link>
+    <description>Recent content on Ashley Boxshall</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Ashley Boxshall</copyright>
+    <lastBuildDate>Mon, 13 Feb 2017 12:35:13 +0000</lastBuildDate>
+    <atom:link href="https://aboxshall.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Ashley Boxshall</title>
+      <link>https://aboxshall.com/about/</link>
+      <pubDate>Mon, 13 Feb 2017 12:35:13 +0000</pubDate>
+      
+      <guid>https://aboxshall.com/about/</guid>
+      <description>&lt;p&gt;I am &lt;strong&gt;Ashley Boxshall&lt;/strong&gt;, a Student and Security Researcher who enjoys making &amp;amp; breaking websites. I have been acknowledged by the following websites for helping to keep them secure by reporting vulnerabilities:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.google.co.uk/about/appsecurity/hall-of-fame/distinction/&#34;&gt;Google | Security Honorable Mention&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://about.pinterest.com/en/responsible-disclosure-statement&#34;&gt;Pinterest | Heroes on Pinterest&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.twitch.tv/p/security&#34;&gt;Twitch | Security contributor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.siteground.com/term/92.htm&#34;&gt;Siteground | Honor roll&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://mailchimp.com/about/security-response/&#34;&gt;Mailchimp &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Samsung&lt;/li&gt;
+&lt;li&gt;Tesco&lt;/li&gt;
+&lt;li&gt;Vox media&lt;/li&gt;
+&lt;li&gt;Mixpanel&lt;/li&gt;
+&lt;li&gt;DuckDuckGo&lt;/li&gt;
+&lt;li&gt;Soundcloud&lt;/li&gt;
+&lt;li&gt;And several other websites&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
